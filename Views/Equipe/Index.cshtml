@@ -4,7 +4,7 @@
 }
 
 @*isso criará um formulário*@
-<form method="POST" action='@Url.Action("Cadastrar")'> @*aqui adicionamos um método (method) para postar (POST) e uma ação (action) será executada quando o usuário clicar em "cadastrar", será executada o método que está no Controller, o Cadastrar*@
+<form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data"> @*aqui adicionamos um método (method) para postar (POST) e uma ação (action) será executada quando o usuário clicar em "cadastrar", será executada o método que está no Controller, o Cadastrar || quando é trabalhado com recebimento/manipulação de arquivos, é preciso adicionar no formulário mais um atributo, o enctype (ele vai permitir que nós consigamos fazer esse upload de arquivos e que o usuário consiga selecionar um arquivo da pasta do computador dele para enviar aqui)*@
     <label>ID</label> @*o label é uma "legenda" para o input*@
 
     @*o input vai possibilitar escrever e captar as coisas de dentro da "caixa"*@
@@ -14,7 +14,7 @@
     <input type="text" name="Nome">
 
     <label>Imagem</label>
-    <input type="text" name="Imagem">
+    <input type="file" name="Imagem"> @*o input não pode mais ser type="text" e terá que se tornar "file", para poder enviar arquivos*@
 
     <button type="submit">Cadastrar</button>
 </form>
@@ -32,7 +32,8 @@
             <tr> @*o "tr" é uma linha*@
                 <td>@item.IdEquipe</td> @*o "td" é os dados que estarão na linha (tr)*@
                 <td>@item.Nome</td>
-                <td>@item.Imagem</td>
+                <td><img src="/img/Equipes/@item.Imagem" alt="Imagem da equipe @item.Nome" width="35"></td> @*para aparecer uma imagem na tela, é necessário colocar <img>*@
+                <td><a asp-area="Link para excluir uma equipe" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@item.IdEquipe">Excluir</a></td>
             </tr>
         }
     </tbody>

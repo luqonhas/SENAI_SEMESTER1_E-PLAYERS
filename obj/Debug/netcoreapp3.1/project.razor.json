@@ -14427,11 +14427,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\User\\Desktop\\SENAI\\ATVIDADES\\E-Players_MVC\\Views\\Noticia\\Index.cshtml",
-      "TargetPath": "Views\\Noticia\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\User\\Desktop\\SENAI\\ATVIDADES\\E-Players_MVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
