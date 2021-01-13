@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VC+oAbhwBxkv7jof0OJ6OHcNIxqMIohCb3vifD4f3xnw9Pk2hSTjs7QBXrt9N6ivt967d8TkL/bGs5UCBVhVUQ==",
+  "dgSpecHash": "h747W9Gfzj/6JPbpqj8o21XylzTi4Od58TQJfTl1O/nP31pyDzv3Hx1os1+KVCrgTW/ibhhNnlOaFGK3vejxEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\SENAI\\ATVIDADES\\E-Players_Models\\E-Players_Models.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\SENAI\\ATVIDADES\\E-Players_MVC\\E-Players_Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

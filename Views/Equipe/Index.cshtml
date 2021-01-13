@@ -1,0 +1,39 @@
+@model Equipe // esse @model vai ligar com a classe Equipe e se tornará "responsável" pela View dela que o Controller mandou
+@{
+    ViewData["Title"] = "Equipes"; // vai mudar o título da página (esse "Title" é uma metatag)
+}
+
+@*isso criará um formulário*@
+<form method="POST" action='@Url.Action("Cadastrar")'> @*aqui adicionamos um método (method) para postar (POST) e uma ação (action) será executada quando o usuário clicar em "cadastrar", será executada o método que está no Controller, o Cadastrar*@
+    <label>ID</label> @*o label é uma "legenda" para o input*@
+
+    @*o input vai possibilitar escrever e captar as coisas de dentro da "caixa"*@
+    <input type="text" name="IdEquipe"> @*o name vai buscar (conectar) o IdEquipe lá no Controller*@
+
+    <label>Nome</label>
+    <input type="text" name="Nome">
+
+    <label>Imagem</label>
+    <input type="text" name="Imagem">
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+<table class="table table-striped table-responsive"> @*tabela que irá mostrar os cadastrados || essa "class" está pegando algumas coisas do bootstrap para deixar a tabela mais "bonita"*@
+    <thread> @*cabeçalho com as colunas de cada informação dos cadastrados*@
+        <th>ID</th> @*as colunas são definidas pelas tags "th"*@
+        <th>Nome</th>
+        <th>Imagem</th>
+    </thread>
+
+    <tbody> @*o "tbody" é o corpo da tabela, onde ficará os dados dos cadastrados*@
+        @foreach (Equipe item in ViewBag.Equipes)
+        {
+            <tr> @*o "tr" é uma linha*@
+                <td>@item.IdEquipe</td> @*o "td" é os dados que estarão na linha (tr)*@
+                <td>@item.Nome</td>
+                <td>@item.Imagem</td>
+            </tr>
+        }
+    </tbody>
+</table>

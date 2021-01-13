@@ -1,8 +1,12 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Página Inicial";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Seja Bem-Vindo(a)</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    
+    <a class="navbar-brand" asp-area="" asp-controller="Equipe" asp-action="Index">Equipes</a> @*o "asp-controller" vai focar na classe do controller || o "asp-action" vai focar no que vai ser executado da classe que está no "asp-controller" (Equipe)*@
+    
+    <a class="navbar-brand" asp-area="" asp-controller="Jogador" asp-action="Index">Jogadores</a>
 </div>
