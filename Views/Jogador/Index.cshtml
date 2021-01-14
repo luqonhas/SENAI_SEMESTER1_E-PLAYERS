@@ -31,6 +31,7 @@
                 <td>@item.IdJogador</td> 
                 <td>@item.IdEquipe</td>
                 <td>@item.Nome</td>
+                <td><a asp-area="Link para excluir um jogador" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@item.IdJogador">Excluir</a></td>
             </tr>
         }
     </tbody>

@@ -68,7 +68,7 @@ namespace E_Players_MVC.Controllers
             equipeModels.Delete(id);
 
             ViewBag.Equipes = equipeModels.ReadAllLines();
-            return LocalRedirect("~/Equipe/");
+            return LocalRedirect("~/Equipe");
         }
     }
 }

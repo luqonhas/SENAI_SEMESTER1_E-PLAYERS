@@ -26,7 +26,15 @@ namespace E_Players_MVC.Controllers
             jogadorModels.Create(novoJogador); // vamos criar as linhas no CSV 
             ViewBag.Jogadores = jogadorModels.ReadAllLines(); // vai jogar todas as informações novas pra dentro do ViewBag (tipo um array)
 
-            return LocalRedirect("~/Jogador/Listar"); // vai redirecionar o usuário para uma outra página
+            return LocalRedirect("~/Jogador"); // vai redirecionar o usuário para uma outra página
+        }
+
+        // Excluir Equipes:
+        public IActionResult Excluir(int id){
+            jogadorModels.Delete(id);
+
+            ViewBag.Jogadores = jogadorModels.ReadAllLines();
+            return LocalRedirect("~/Jogador");
         }
     }
 }
