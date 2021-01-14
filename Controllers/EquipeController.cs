@@ -6,9 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace E_Players_MVC.Controllers
 {
+    // localhost:5001/Equipe
+    [Route ("Equipe")]
     public class EquipeController : Controller // a classe Controller (que é da biblioteca AspNetCore) vai trazer vários métodos para poder usar
     {
         Equipe equipeModels = new Equipe();
+        
+        [Route ("Listar")]
         public IActionResult Index(){ // método que vai definir os recursos do Controller
             // aqui vamos enviar todas as equipes e enviando-as para a View:
             ViewBag.Equipes = equipeModels.ReadAllLines(); // o ViewBag (nesse caso) servirá como um array da lista de Equipes
@@ -60,15 +64,16 @@ namespace E_Players_MVC.Controllers
             equipeModels.Create(novaEquipe); // vamos criar as linhas no CSV
             ViewBag.Equipes = equipeModels.ReadAllLines(); // vai jogar todas as informações novas pra dentro do ViewBag (tipo um array)
 
-            return LocalRedirect("~/Equipe"); // vai redirecionar o usuário para uma outra página
+            return LocalRedirect("~/Equipe/Listar"); // vai redirecionar o usuário para uma outra página
         }
 
+        [Route ("{id}")]
         // Excluir Equipes:
         public IActionResult Excluir(int id){
             equipeModels.Delete(id);
 
             ViewBag.Equipes = equipeModels.ReadAllLines();
-            return LocalRedirect("~/Equipe");
+            return LocalRedirect("~/Equipe/Listar");
         }
     }
 }
