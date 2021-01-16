@@ -3,20 +3,30 @@
     ViewData["Title"] = "Equipes"; // vai mudar o título da página (esse "Title" é uma metatag)
 }
 
+<div class="titulo_pagina">
+    <h1>cadastro de @ViewData["Title"]</h1>
+</div>
+
 @*isso criará um formulário*@
-<form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data"> @*aqui adicionamos um método (method) para postar (POST) e uma ação (action) será executada quando o usuário clicar em "cadastrar", será executada o método que está no Controller, o Cadastrar || quando é trabalhado com recebimento/manipulação de arquivos, é preciso adicionar no formulário mais um atributo, o enctype (ele vai permitir que nós consigamos fazer esse upload de arquivos e que o usuário consiga selecionar um arquivo da pasta do computador dele para enviar aqui)*@
-    <label>ID</label> @*o label é uma "legenda" para o input*@
+<form class="cadastro" method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data"> @*aqui adicionamos um método (method) para postar (POST) e uma ação (action) será executada quando o usuário clicar em "cadastrar", será executada o método que está no Controller, o Cadastrar || quando é trabalhado com recebimento/manipulação de arquivos, é preciso adicionar no formulário mais um atributo, o enctype (ele vai permitir que nós consigamos fazer esse upload de arquivos e que o usuário consiga selecionar um arquivo da pasta do computador dele para enviar aqui)*@
 
-    @*o input vai possibilitar escrever e captar as coisas de dentro da "caixa"*@
-    <input type="text" name="IdEquipe"> @*o name vai buscar (conectar) o IdEquipe lá no Controller*@
+    <div class="campo">
+        <label>ID da Equipe</label> @*o label é uma "legenda" para o input*@
+        @*o input vai possibilitar escrever e captar as coisas de dentro da "caixa"*@
+        <input type="text" name="IdEquipe"> @*o name vai buscar (conectar) o IdEquipe lá no Controller*@
+    </div>
 
-    <label>Nome</label>
-    <input type="text" name="Nome">
+    <div class="campo">
+        <label>Nome</label>
+        <input type="text" name="Nome">
+    </div>
 
-    <label>Imagem</label>
-    <input type="file" name="Imagem"> @*o input não pode mais ser type="text" e terá que se tornar "file", para poder enviar arquivos*@
+    <div class="campo">
+        <label>Imagem</label>
+        <input type="file" name="Imagem"> @*o input não pode mais ser type="text" e terá que se tornar "file", para poder enviar arquivos*@
+    </div>
 
-    <button type="submit">Cadastrar</button>
+    <button class="gradient btn" type="submit">Cadastrar</button>
 </form>
 
 <table class="table table-striped table-responsive"> @*tabela que irá mostrar os cadastrados || essa "class" está pegando algumas coisas do bootstrap para deixar a tabela mais "bonita"*@
@@ -24,6 +34,7 @@
         <th>ID</th> @*as colunas são definidas pelas tags "th"*@
         <th>Nome</th>
         <th>Imagem</th>
+        <th>Ações</th>
     </thread>
 
     <tbody> @*o "tbody" é o corpo da tabela, onde ficará os dados dos cadastrados*@
