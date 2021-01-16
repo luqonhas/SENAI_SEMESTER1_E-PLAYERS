@@ -18,6 +18,7 @@ namespace E_Players_MVC.Controllers
             ViewBag.Equipes = equipeModels.ReadAllLines(); // o ViewBag (nesse caso) servirá como um array da lista de Equipes
             return View();
         }
+        [Route ("Cadastrar")]
         public IActionResult Cadastrar(IFormCollection formularioDeCadastro){ // vai "aceitar" as informações do "formulário" e envia-las para a tela (View)
             // depois de receber as informações, vamos passa-las para o CSV:
             Equipe novaEquipe = new Equipe();
