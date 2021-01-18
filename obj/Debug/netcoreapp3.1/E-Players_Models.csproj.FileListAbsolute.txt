@@ -36,3 +36,4 @@ C:\Users\User\Desktop\SENAI\ATVIDADES\E-Players_MVC\obj\Debug\netcoreapp3.1\E-Pl
 C:\Users\User\Desktop\SENAI\ATVIDADES\E-Players_MVC\obj\Debug\netcoreapp3.1\E-Players_Models.genruntimeconfig.cache
 C:\Users\User\Desktop\SENAI\ATVIDADES\E-Players_MVC\obj\Debug\netcoreapp3.1\E-Players_Models.csproj.CopyComplete
 C:\Users\User\Desktop\SENAI\ATVIDADES\E-Players_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\E-Players_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs

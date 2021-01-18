@@ -2,12 +2,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using E_Players_Models.Models;
 using System;
+using System.Collections.Generic;
 
 namespace E_Players_MVC.Controllers
 {
     // localhost:5001/Jogador
     [Route ("Jogador")]
-    public class JogadorController:Controller
+    public class JogadorController : Controller
     {
         Jogador jogadorModels = new Jogador();
         Equipe equipeModels = new Equipe();

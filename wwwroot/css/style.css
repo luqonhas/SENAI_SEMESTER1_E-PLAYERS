@@ -75,11 +75,15 @@ ul{
 }
 
 .banner .btn{
-    margin-top: 230px;
+    margin-top: 270px;
 }
 
 .banner a{
     margin: 0 20px;
+}
+
+.erro{
+    color: var(--pink);
 }
 
 .sobre{
@@ -110,7 +114,7 @@ ul{
 
 .champion{
     position: absolute;
-    right: 15%;
+    right: 5%;
     top: 450px;
 }
 
