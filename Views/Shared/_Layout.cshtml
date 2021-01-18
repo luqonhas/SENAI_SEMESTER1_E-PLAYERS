@@ -55,7 +55,9 @@
                 </nav>
             </div>
             <div class="mob_logo_sociais">
-                <img src="~/Images/Logo.svg" alt="Logo do projeto E-Players">
+                <a asp-area="Voltar para o início" asp-controller="Home" asp-action="Index">
+                    <img src="~/Images/Logo.svg" alt="Logo do projeto E-Players">
+                </a>
                 <div class="sociais">
                     <i class="fab fa-facebook-square"></i>
                     <i class="fab fa-instagram-square"></i>
@@ -73,6 +75,7 @@
         </div>
         <p>© Copyrigth 2077 - Todos os direitos reservados ao sena-code</p>
     </footer>
+    
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

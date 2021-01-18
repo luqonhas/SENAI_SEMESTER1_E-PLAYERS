@@ -3,18 +3,28 @@
     ViewData["Title"] = "Jogadores";
 }
 
-<form method="POST" action='@Url.Action("Cadastrar")'>
-    <label>ID de Jogador</label> 
+<div class="titulo_pagina">
+    <h1>cadastro de jogador</h1>
+</div>
 
-    <input type="text" name="IdJogador">
+<form class="cadastro" method="POST" action='@Url.Action("Cadastrar")'>
+    
+    <div class="campo">
+        <label>ID de Jogador</label> 
+        <input type="text" name="IdJogador">
+    </div>
 
-    <label>ID da Equipe</label>
-    <input type="text" name="IdEquipe">
+    <div class="campo">
+        <label>ID da Equipe</label>
+        <input type="text" name="IdEquipe">
+    </div>
 
-    <label>Nome</label>
-    <input type="text" name="Nome">
+    <div class="campo">
+        <label>Nome</label>
+        <input type="text" name="Nome">
+    </div>
 
-    <button type="submit">Cadastrar</button>
+    <button class="gradient btn" type="submit">Cadastrar</button>
 </form>
 
 <table class="table table-striped table-responsive"> 
