@@ -9,6 +9,12 @@ namespace E_Players_Models.Models
         public int IdJogador { get; set; }
         public string Nome { get; set; }
         public int IdEquipe { get; set; }
+
+        // parte de login:
+        public string Email { get; set; }
+        public string Senha { get; set; }
+        
+        
         
         private const string PATH = "Database/jogador.csv";
         public Jogador(){
@@ -16,7 +22,7 @@ namespace E_Players_Models.Models
         }
 
         public string PrepararCSV(Jogador prepararLinhas){
-            return $"{prepararLinhas.IdJogador};{prepararLinhas.Nome};{prepararLinhas.IdEquipe}";
+            return $"{prepararLinhas.IdJogador};{prepararLinhas.Nome};{prepararLinhas.Email};{prepararLinhas.Senha}";
         }
 
         public void Create(Jogador novoJogador)
@@ -39,7 +45,9 @@ namespace E_Players_Models.Models
                 // Alimentar o objeto equipe:
                 jogador.IdJogador = int.Parse(linha[0]);
                 jogador.Nome = linha[1];
-                jogador.IdEquipe = int.Parse(linha[2]);
+                jogador.Email = linha[2];
+                jogador.Senha = linha[3];
+
 
                 // Adicionar o objeto equipe na lista de equipes:
                 jogadores.Add(jogador);

@@ -78,6 +78,10 @@ ul{
     margin-top: 230px;
 }
 
+.banner a{
+    margin: 0 20px;
+}
+
 .sobre{
     background-image: url("../Images/Teams/T6.jpg");
     background-position: center;

@@ -10,10 +10,12 @@ namespace E_Players_MVC.Controllers
     public class JogadorController:Controller
     {
         Jogador jogadorModels = new Jogador();
+        Equipe equipeModels = new Equipe();
 
         // localhost:5001/Equipe/Listar
         [Route ("Listar")]
         public IActionResult Index(){ // método que vai definir os recursos do Controller
+            ViewBag.Equipes = equipeModels.ReadAllLines();
             // aqui vamos enviar todas as equipes e enviando-as para a View:
             ViewBag.Jogadores = jogadorModels.ReadAllLines(); // o ViewBag (nesse caso) servirá como um array da lista de Equipes
             return View();
@@ -25,7 +27,8 @@ namespace E_Players_MVC.Controllers
             Jogador novoJogador = new Jogador();
             novoJogador.IdJogador = Int32.Parse(formularioDeCadastro["IdJogador"]);
             novoJogador.Nome = formularioDeCadastro["Nome"];
-            novoJogador.IdEquipe = Int32.Parse(formularioDeCadastro["IdEquipe"]);
+            novoJogador.Email = formularioDeCadastro["Email"];
+            novoJogador.Senha = formularioDeCadastro["Senha"];
 
             jogadorModels.Create(novoJogador); // vamos criar as linhas no CSV 
             ViewBag.Jogadores = jogadorModels.ReadAllLines(); // vai jogar todas as informações novas pra dentro do ViewBag (tipo um array)

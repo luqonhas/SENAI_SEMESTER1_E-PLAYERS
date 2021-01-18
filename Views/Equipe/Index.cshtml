@@ -43,7 +43,7 @@
             <tr> @*o "tr" é uma linha*@
                 <td>@item.IdEquipe</td> @*o "td" é os dados que estarão na linha (tr)*@
                 <td>@item.Nome</td>
-                <td><img src="/img/Equipes/@item.Imagem" alt="Imagem da equipe @item.Nome" width="35"></td> @*para aparecer uma imagem na tela, é necessário colocar <img>*@
+                <td><img src="/img/Equipes/@item.Imagem" alt="Imagem da equipe @item.Nome" width="50"></td> @*para aparecer uma imagem na tela, é necessário colocar <img>*@
                 <td><a asp-area="Link para excluir uma equipe" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@item.IdEquipe">Excluir</a></td>
             </tr>
         }
