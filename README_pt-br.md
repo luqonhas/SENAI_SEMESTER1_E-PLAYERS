@@ -1,4 +1,4 @@
-  <h2 align="center">Project E-Players</h2>
+  <h2 align="center">Projeto E-Players</h2>
 
   <p align="center">
     Projeto que busca trazer uma plataforma de <br>notícias do mundo dos E-Sports! 🏆
