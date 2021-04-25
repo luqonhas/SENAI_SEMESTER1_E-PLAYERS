@@ -48,7 +48,6 @@ Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplica
 * **SPRINT 3 - <ins>FRONT-END**</ins> 📰<br>
 Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
 <br>
-<br>
 <div id = "tec"/>
 
 ## Tecnologias Utilizadas 🤖
