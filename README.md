@@ -42,7 +42,7 @@ Sprint respons√°vel pelo desenvolvimento da interface do projeto *WEB*, que ser√
 ## Screens
 
 * **Screen's Home** :
-![](https://imgur.com/a/CqRwFku)
+![](https://imgur.com/a/o1j1Pyp)
 
 * **Screen's Login**
 ![](https://imgur.com/a/CqRwFku)
