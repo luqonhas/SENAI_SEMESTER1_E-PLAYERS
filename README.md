@@ -47,5 +47,7 @@ Nesse projeto foi necessário desenvolver um sistema WEB/MOBILE integrado, onde 
 <!-- Contato -->
 ## Contato 📞
 <p id="contato">
+  
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
+  
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
