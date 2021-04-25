@@ -41,8 +41,8 @@ Nesse projeto foi necessário desenvolver um sistema WEB/MOBILE integrado, onde 
 * <p style="font-weight: bold;"> SPRINT 3 - FRONT-END </p>
   <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento da interface do projeto, onde teremos duas interfaces principais, uma delas é a WEB, que será desenvolvida por meio do <span style="text-decoration: underline">HTML e CSS</span>, com pequenas participações de <span style="text-decoration: underline">JavaScript</span>. Neste processo foi feito também a <span style="text-decoration: underline">responsividade</span>, no qual prepara a visualização do site para qualquer tipo de tela. </p>
 
-
-* <p id="info">Os estudos com este projeto foram iniciados em <span style="font-weight: bold;">24/09/2020</span> e foram finalizados em <span style="font-weight: bold;">19/01/2021</span>.</p>
+## Informações
+<p id="info">Os estudos com este projeto foram iniciados em <span style="font-weight: bold;">24/09/2020</span> e foram finalizados em <span style="font-weight: bold;">19/01/2021</span>.</p>
 
 <!-- Contato -->
 ## Contato 📞
