@@ -1,3 +1,5 @@
+<br>
+
   <h2 align="center">Project E-Players</h2>
 
   <p align="center">
@@ -19,14 +21,16 @@ Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-T
 * [Processo de Desenvolvimento 📈](#process)
 * [Tecnologias Utilizadas 🤖](#tec)
 * [Entre em Contato! 🎉](#contact)
-
+<br>
+<br>
 <div id='about'/>
 
 ## Sobre o Projeto 🔍
 Nesse projeto foi necessário desenvolver um sistema *WEB responsivo*, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports.
 
 Os estudos com este projeto foram iniciados em <ins>**24/09/2020**</ins> e foram finalizados em <ins>**19/01/2021**</ins>.
-
+<br>
+<br>
 <div id='process'/>
 
 ## Processo de Desenvolvimento 📈
@@ -45,7 +49,7 @@ Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplica
 
 * **SPRINT 3 - <ins>FRONT-END**</ins> 📰<br>
 Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
-
+<br>
 <br>
 <div id = "tec"/>
 
@@ -76,7 +80,6 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
   * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
   * **<ins>CSS3**</ins> : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
   * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
-<br>
 <br>
 <br>
 <div id="contact"/>
