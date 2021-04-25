@@ -13,7 +13,7 @@
   </p>
 </p>
 
-🇺🇸 Versão em Inglês disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
+👅 Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
 ## Mapa do Repositório 🗺️
 
