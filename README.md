@@ -4,7 +4,7 @@
 <!-- Logo -->
 <br>
 
-  ![GitHub Logo](/Images/logo.svg)
+  ![GitHub Logo](~/Images/Logo.svg)
 
   <p align="center">
     O E-Players é um site de notícias direcionado totalmente a campeonatos E-Sports.
