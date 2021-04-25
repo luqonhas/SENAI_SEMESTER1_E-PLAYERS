@@ -1,53 +1,46 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+# E-PLAYERS
 
-<!-- Logo -->
-<br>
+Hello, welcome to my E-Players' Repository!
 
-  ![E-Players Logo](Images/Logo.svg)
+Portuguese version available [here](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
-  <p align="center">
-    O E-Players é um site de notícias direcionado totalmente a campeonatos E-Sports.
-    <br />
-    <br />
-    <br />
-  </p>
-</p>
+*******
+Tables of contents  
+ 1. [About E-Players](#about)
+ 2. [Process](#process)
+ 3. [Contact](#contact)
+
+*******
+
+<div id='about'/>
+
+## About E-Players
+O E-Players é um site de notícias direcionado totalmente a campeonatos E-Sports.
+
+Nesse projeto foi necessário desenvolver um sistema **WEB RESPONSIVO**, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports.
+
+### Time
+Os estudos com este projeto foram iniciados em **24/09/2020** e foram finalizados em **19/01/2021**.
+
+<div id='process'/>
+
+## Process
+
+* **SPRINT 1 - UX/UI (FIGMA)** :
+Sprint responsável pelo desenvolvimento de todas as interfaces do *layout* do E-Players, tanto para a experiência do usuário, quanto para conseguir se adequar às necessidades do sistema (no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um **WireFrame** (ou **Layout de baixa fidelidade**) e um **Layout de alta fidelidade**, dos quais devem estar dentro dos requisitos de usabilidade e com suas devidas funções que são especificados pelo próprio cliente.
 
 
-
-<!-- Mapa -->
-## Mapa do Arquivo 🗺️
-
-* [Sobre o Projeto](#about)
-  * [Principais Técnologias](#tec)
-* [Informações](#info)
-  * [Contato](#contato) 
+* **SPRINT 2 - BACK-END** :
+Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)] como a principal linguagem para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: [![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)], o **CSV** (para armazenar os dados dos usuários cadastrados), o **MVC** (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e, entre outros **Frameworks** e **Modelos**.</span>
 
 
+* **SPRINT 3 - FRONT-END** :
+Sprint responsável pelo desenvolvimento da interface do projeto *WEB*, que será desenvolvida por meio do [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)] e [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)], com pequenas participações de [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]. Neste processo foi feito também a *responsividade*, que no qual prepara a visualização do site para qualquer tipo de tela.
 
-<!-- Sobre o Projeto -->
-## Sobre o Projeto
-<p id="about">
-Nesse projeto foi necessário desenvolver um sistema WEB responsivo, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports. <br>Este projeto contém 3 SPRINTS ao todo:
-</p>
 
-* <p style="font-weight: bolder"> SPRINT 1 - UX/UI (FIGMA) </p>
-  <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de todas as interfaces do layout do E-Players, tanto para a experiência do usuário, quanto para conseguir se adequar às necessidades do sistema(no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um WireFrame (ou Layout de baixa fidelidade) e um Layout de alta fidelidade, dos quais devem estar dentro dos requisitos de usabilidade e suas devidas funções que são especificados pelo próprio cliente.</p>
+## Contact
+<p id="contact">
 
-* <p style="font-weight: bolder;"> SPRINT 2 - BACK-END </p>
-  <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o  [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)]  como a principal linguagem para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: <span style="text-decoration: underline">o .NET Core (ou apenas .NET, atualmente)</span>, <span style="text-decoration: underline">o CSV (para armazenar os dados dos usuários cadastrados) </span>, <span style="text-decoration: underline">o MVC (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e, <span style="text-decoration: underline">entre outros Frameworks e Modelos. </span></p>
+![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)]
 
-* <p style="font-weight: bolder;"> SPRINT 3 - FRONT-END </p>
-  <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento da interface do projeto, onde teremos duas interfaces principais, uma delas é a WEB, que será desenvolvida por meio do <span style="text-decoration: underline">HTML e CSS</span>, com pequenas participações de <span style="text-decoration: underline">JavaScript</span>. Neste processo foi feito também a <span style="text-decoration: underline">responsividade</span>, no qual prepara a visualização do site para qualquer tipo de tela. </p>
-
-## Informações
-<p id="info">Os estudos com este projeto foram iniciados em <span style="font-weight: bolder;">24/09/2020</span> e foram finalizados em <span style="font-weight: bolder;">19/01/2021</span>.</p>
-
-<!-- Contato -->
-## Contato 📞
-<p id="contato">
-  
-![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)]
