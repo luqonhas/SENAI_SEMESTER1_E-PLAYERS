@@ -1,5 +1,3 @@
-<br>
-
   <h2 align="center">Project E-Players</h2>
 
   <p align="center">
