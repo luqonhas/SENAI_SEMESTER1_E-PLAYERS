@@ -29,7 +29,7 @@
 <!-- Sobre o Projeto -->
 ## Sobre o Projeto
 <p id="about">
-Nesse projeto foi necessário desenvolver um sistema WEB responsivo, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports. <br>Este projeto contém 3 SPRINTS ao todo:
+Nesse projeto foi necessário desenvolver um sistema **WEB responsivo**, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports. <br>Este projeto contém 3 SPRINTS ao todo:
 </p>
 
 * <p style="font-weight: bolder"> SPRINT 1 - UX/UI (FIGMA) </p>
