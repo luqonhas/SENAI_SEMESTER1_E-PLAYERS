@@ -13,14 +13,15 @@
   </p>
 </p>
 
-👅 Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
+### Traduções 👅
+Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
 ## Mapa do Repositório 🗺️
 
 * [Sobre o Projeto 🔍](#about)
-  * [Processo de Desenvolvimento 📈](#process)
+* [Processo de Desenvolvimento 📈](#process)
 * [Tecnologias Utilizadas 🤖](#tec)
-  * [Entre em Contato! 🎉](#contact)
+* [Entre em Contato! 🎉](#contact)
 
 <div id='about'/>
 
