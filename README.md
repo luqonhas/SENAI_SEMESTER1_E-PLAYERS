@@ -1,6 +1,3 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-
 <br>
 
   <h2 align="center">Project E-Players</h2>
@@ -13,8 +10,10 @@
   </p>
 </p>
 
-### Traduções 👅
+## Traduções 👅
 Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
+<br>
+<br>
 
 ## Mapa do Repositório 🗺️
 
@@ -49,6 +48,7 @@ Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplica
 * **SPRINT 3 - <ins>FRONT-END**</ins> 📰<br>
 Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
 
+<br>
 <div id = "tec"/>
 
 ## Tecnologias Utilizadas 🤖
@@ -57,10 +57,12 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
 * _**GERENCIAMENTO DE TEMPO**_ ⏱️
   * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
 
+<br>
 
 * _**UI/UX**_ 🎨
   * **<ins>Figma**</ins> : Programa utilizado para criar os Layouts de alta e baixa fidelidade.
 
+<br>
 
 * _**BACK-END**_ 🔙
   * **<ins>**Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
@@ -70,6 +72,7 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
   * **<ins>Arquivos CSV**</ins> : Arquivo de texto que conseguiu armazenar as informações dos usuários registrados em tabelas como um Excel e, quando uma dessas informações fossem necessárias, seria buscado fácilmente no CSV;
   * **<ins>MVC**</ins> : Arquitetura de software que foi utilizado para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
 
+<br>
 
 * _**FRONT-END**_ 📰
   * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
