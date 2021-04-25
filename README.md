@@ -32,7 +32,7 @@
 Nesse projeto foi necessário desenvolver um sistema WEB responsivo, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports. <br>Este projeto contém 3 SPRINTS ao todo:
 </p>
 
-* <p style="font-weight: bolder;"> SPRINT 1 - UX/UI (FIGMA) </p>
+* <p style="font-weight: bolder"> SPRINT 1 - UX/UI (FIGMA) </p>
   <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de todas as interfaces do layout do E-Players, tanto para a experiência do usuário, quanto para conseguir se adequar às necessidades do sistema(no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um WireFrame (ou Layout de baixa fidelidade) e um Layout de alta fidelidade, dos quais devem estar dentro dos requisitos de usabilidade e suas devidas funções que são especificados pelo próprio cliente.</p>
 
 * <p style="font-weight: bolder;"> SPRINT 2 - BACK-END </p>
