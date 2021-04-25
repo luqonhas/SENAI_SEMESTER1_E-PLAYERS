@@ -78,7 +78,6 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
   * **<ins>CSS3**</ins> : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
   * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
 <br>
-<br>
 <div id="contact"/>
 
 ## Entre em Contato! 🎉
