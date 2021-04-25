@@ -64,7 +64,7 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
 <br>
 
 * _**BACK-END**_ 🔙
-  * **<ins>**Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
+  * **<ins>Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
   * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
   * **<ins>Linguagem C#**</ins> : Principal linguagem de programação utilizada no BACK-END do projeto;
   * **<ins>.NET**</ins> : Framework de plataforma que ofereceu uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento de todo o projeto;
