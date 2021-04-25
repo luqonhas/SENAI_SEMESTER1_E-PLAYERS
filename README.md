@@ -37,15 +37,15 @@ Este projeto foi dividido em algumas sprints para conseguir organiza-lo devidame
 Serão, ao todo, 3 sprints de desenvolvimento:
 
 
-* **SPRINT 1 - <ins>UX/UI**</ins> 🎨<br>
+* _**SPRINT 1 - <ins>UX/UI**_</ins> 🎨<br>
 Sprint responsável pelo desenvolvimento de todas as interfaces do layout do **E-Players**, tanto para a *experiência do usuário*, quanto para conseguir se adequar às necessidades do sistema (no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um *WireFrame* (ou **Layout de baixa fidelidade**) e um **Layout de alta fidelidade**, dos quais devem estar dentro dos *requisitos de usabilidade* e com suas devidas *funções* que são especificados pelo próprio cliente.
 
 
-* **SPRINT 2 - <ins>BACK-END**</ins> 🔙<br>
+* _**SPRINT 2 - <ins>BACK-END**_</ins> 🔙<br>
 Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o **C#** como a *principal linguagem* para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: **.NET Core** (ou .NET, atualmente), o **CSV** (para armazenar os dados dos usuários cadastrados), o **MVC** (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e entre outros *Frameworks* e *Modelos*.
 
 
-* **SPRINT 3 - <ins>FRONT-END**</ins> 📰<br>
+* _**SPRINT 3 - <ins>FRONT-END**_</ins> 📰<br>
 Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
 <br>
 <div id = "tec"/>
