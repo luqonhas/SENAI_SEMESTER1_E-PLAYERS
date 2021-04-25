@@ -1,4 +1,4 @@
-![E-Players Logo](/Images/Logo.svg)
+![E-Players Logo](~/Imagens/Logo.svg)
 
 # E-PLAYERS
 
