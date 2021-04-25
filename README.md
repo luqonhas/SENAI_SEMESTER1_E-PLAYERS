@@ -1,5 +1,3 @@
-![E-Players Logo](~/Imagens/Logo.svg)
-
 # E-PLAYERS
 
 Hello, welcome to my E-Players' Repository!
@@ -48,9 +46,9 @@ Sprint responsável pelo desenvolvimento da interface do projeto *WEB*, que ser�
 * **Screen's Login**
 ![](https://imgur.com/a/CqRwFku)
 
-## Contact
-<p id="contact">
+<div id="contact"/>
 
+## Contact
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
 
 ![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
