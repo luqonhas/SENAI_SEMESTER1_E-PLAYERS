@@ -29,6 +29,7 @@ Nesse projeto foi necessário desenvolver um sistema *WEB responsivo*, onde é p
 Os estudos com este projeto foram iniciados em <ins>**24/09/2020**</ins> e foram finalizados em <ins>**19/01/2021**</ins>.
 <br>
 <br>
+<br>
 <div id='process'/>
 
 ## Processo de Desenvolvimento 📈
