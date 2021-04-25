@@ -12,7 +12,6 @@
 Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 <br>
 <br>
-<br>
 
 ## Mapa do Repositório 🗺️
 
