@@ -23,17 +23,15 @@ Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/Markdown-T
 * [Tecnologias Utilizadas 🤖](#tec)
 * [Entre em Contato! 🎉](#contact)
 
-
-
 <div id='about'/>
+
 ## Sobre o Projeto 🔍
 Nesse projeto foi necessário desenvolver um sistema *WEB responsivo*, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports.
 
 Os estudos com este projeto foram iniciados em <ins>**24/09/2020**</ins> e foram finalizados em <ins>**19/01/2021**</ins>.
 
-
-
 <div id='process'/>
+
 ## Processo de Desenvolvimento 📈
 Este projeto foi dividido em algumas sprints para conseguir organiza-lo devidamente durante todo o processo de desenvolvimento.
 
@@ -51,33 +49,32 @@ Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplica
 * **SPRINT 3 - <ins>FRONT-END**</ins> 📰<br>
 Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
 
-
-
 <div id = "tec"/>
+
 ## Tecnologias Utilizadas 🤖
 Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram usados e aplicados durante todo o processo do projeto.
 
 * _**GERENCIAMENTO DE TEMPO**_ ⏱️
-  * <ins>**Trello**</ins> : Programa utilizado para a organização de tarefas.
+  * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
 
 
 * _**UI/UX**_ 🎨
-  * <ins>**Figma**</ins> : Programa utilizado para criar os Layouts de alta e baixa fidelidade.
+  * **<ins>Figma**</ins> : Programa utilizado para criar os Layouts de alta e baixa fidelidade.
 
 
 * _**BACK-END**_ 🔙
-  * <ins>**Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
-  * <ins>**PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
-  * <ins>**Linguagem C#**</ins> : Principal linguagem de programação utilizada no BACK-END do projeto;
-  * <ins>**.NET**</ins> : Framework de plataforma que ofereceu uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento de todo o projeto;
-  * <ins>**Arquivos CSV**</ins> : Arquivo de texto que conseguiu armazenar as informações dos usuários registrados em tabelas como um Excel e, quando uma dessas informações fossem necessárias, seria buscado fácilmente no CSV;
-  * <ins>**MVC**</ins> : Arquitetura de software que foi utilizado para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
+  * **<ins>**Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
+  * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
+  * **<ins>Linguagem C#**</ins> : Principal linguagem de programação utilizada no BACK-END do projeto;
+  * **<ins>.NET**</ins> : Framework de plataforma que ofereceu uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento de todo o projeto;
+  * **<ins>Arquivos CSV**</ins> : Arquivo de texto que conseguiu armazenar as informações dos usuários registrados em tabelas como um Excel e, quando uma dessas informações fossem necessárias, seria buscado fácilmente no CSV;
+  * **<ins>MVC**</ins> : Arquitetura de software que foi utilizado para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
 
 
 * _**FRONT-END**_ 📰
-  * <ins>**HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
-  * <ins>**CSS3**</ins> : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
-  * <ins>**JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
+  * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
+  * **<ins>CSS3**</ins> : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
+  * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
 <br>
 <br>
 <br>
