@@ -3,6 +3,9 @@
   <p align="center">
     Project that seeks to bring a news platform <br>from the world of E-Sports! 🏆
     <br />
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER1_E-Players"><strong> View Repository
+    »</strong></a>
+    <br />
     <br />
     <br />
   </p>
