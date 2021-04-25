@@ -56,7 +56,7 @@ Sprint responsible for the development of the **WEB** project interface, which w
 ## Technologies Used 🤖
 Here are all the technologies (both programs used, as well as methods and good practices) that have been used and applied throughout the project process.
 
-* _**GERENCIAMENTO DE TEMPO**_ ⏱️
+* _**TIME MANAGEMENT**_ ⏱️
   * **<ins>Trello**</ins> : Program used for organizing tasks.
 
 <br>
