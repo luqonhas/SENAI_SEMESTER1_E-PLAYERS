@@ -67,7 +67,7 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
   * **MVC** : Arquitetura de software que foi utilizado para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
 
 * *FRONT-END* 📰<br>
-  * **HTML5** : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
+  * _**HTML5**_ : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
   * **CSS3** : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
   * **JavaScript** : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
 
