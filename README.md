@@ -5,7 +5,7 @@ Hello, welcome to my E-Players' Repository!
 Portuguese version available [here](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
 *******
-Tables of contents  
+## Tables of contents  
  1. [About E-Players](#about)
  2. [Process](#process)
  3. [Contact](#contact)
