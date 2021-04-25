@@ -1,19 +1,20 @@
-# E-PLAYERS
+# PROJECT E-PLAYERS
 
-Hello, welcome to my E-Players' Repository!
+Projeto que busca trazer uma plataforma de notícias do mundo dos E-Sports!
 
 Portuguese version available [here](https://github.com/luqonhas/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
-## Tables of contents  
- 1. [About E-Players](#about)
- 2. [Process](#process)
- 3. [Contact](#contact)
+## Repository Map 🗺️
 
-*******
+<p>
+* [About E-Players](#about)
+ * [Process](#process)
+* [Contact](#contact)
+</p>
 
 <div id='about'/>
 
-## About E-Players
+## About E
 O E-Players é um site de notícias direcionado totalmente a campeonatos E-Sports.
 
 Nesse projeto foi necessário desenvolver um sistema **WEB RESPONSIVO**, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports.
