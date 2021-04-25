@@ -36,7 +36,7 @@ Nesse projeto foi necessário desenvolver um sistema WEB/MOBILE integrado, onde 
   <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de todas as interfaces do layout do E-Players, tanto para a experiência do usuário, quanto para conseguir se adequar às necessidades do sistema(no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um WireFrame (ou Layout de baixa fidelidade) e um Layout de alta fidelidade, dos quais devem estar dentro dos requisitos de usabilidade e suas devidas funções que são especificados pelo próprio cliente.</p>
 
 * <p style="font-weight: bold;"> SPRINT 2 - BACK-END </p>
-  <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o C# como a principal linguagem para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: <span style="text-decoration: underline">o .NET Core (ou apenas .NET, atualmente)</span>, <span style="text-decoration: underline">o CSV (para armazenar os dados dos usuários cadastrados) </span>, <span style="text-decoration: underline">o MVC (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e, <span style="text-decoration: underline">entre outros Frameworks e Modelos. </span></p>
+  <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) como a principal linguagem para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white), <span style="text-decoration: underline">o CSV (para armazenar os dados dos usuários cadastrados) </span>, <span style="text-decoration: underline">o MVC (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e, <span style="text-decoration: underline">entre outros Frameworks e Modelos. </span></p>
 
 * <p style="font-weight: bold;"> SPRINT 3 - FRONT-END </p>
   <p style="font-weight: 300;"> Sprint responsável pelo desenvolvimento da interface do projeto, onde teremos duas interfaces principais, uma delas é a WEB, que será desenvolvida por meio do <span style="text-decoration: underline">HTML e CSS</span>, com pequenas participações de <span style="text-decoration: underline">JavaScript</span>. Neste processo foi feito também a <span style="text-decoration: underline">responsividade</span>, no qual prepara a visualização do site para qualquer tipo de tela. </p>
@@ -47,7 +47,5 @@ Nesse projeto foi necessário desenvolver um sistema WEB/MOBILE integrado, onde 
 <!-- Contato -->
 ## Contato 📞
 <p id="contato">
-Email - <a href="apolinariodev@gmail.com"> apolinariodev@gmail.com </a><br>
-Linkedin - <a href="https://www.linkedin.com/in/luqonhas/"> https://www.linkedin.com/in/luqonhas/ </a>
-
-Link do Projeto - https://github.com/luqonhas/SENAI_SEMESTER1_E-Players
+![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
