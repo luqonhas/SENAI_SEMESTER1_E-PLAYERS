@@ -1,9 +1,9 @@
   <h2 align="center">PROJECT E-PLAYERS</h2>
 
   <p align="center">
-    Project that seeks to bring a news platform <br>from the world of E-Sports! 🏆
+    Projeto que busca trazer uma plataforma de <br>notícias do mundo dos E-Sports! 🏆
     <br />
-    <a href="https://github.com/luqonhas/SENAI_SEMESTER1_E-Players"><strong> View Repository
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER1_E-Players"><strong> Ver Repositório
     »</strong></a>
     <br />
     <br />
@@ -11,78 +11,78 @@
   </p>
 </p>
 
-## Translations 👅
-**Portuguese** version available [here](https://github.com/luqonhas/SENAI_SEMESTER1_E-Players/blob/master/README_pt-br.md).
+## Traduções 👅
+Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/SENAI_SEMESTER1_E-Players/blob/master/README.md).
 <br>
 <br>
 
-## Repository Map 🗺️
+## Mapa do Repositório 🗺️
 
-* [About the Project 🔍](#about)
-* [Development Process 📈](#process)
-* [Technologies Used 🤖](#tec)
-* [Contact! 🎉](#contact)
+* [Sobre o Projeto 🔍](#about)
+* [Processo de Desenvolvimento 📈](#process)
+* [Tecnologias Utilizadas 🤖](#tec)
+* [Entre em Contato! 🎉](#contact)
 <br>
 <div id='about'/>
 
-## About the Project 🔍
-In this project it was necessary to develop a *responsive WEB* system, where it is possible to register and log in to the website to follow the main news of the major championships in the world of E-Sports. 
+## Sobre o Projeto 🔍
+Nesse projeto foi necessário desenvolver um sistema *WEB responsivo*, onde é possível se registrar e logar no site para acompanhar as principais notícias dos grandes campeonatos do mundo dos E-Sports.
 
-The studies with this project started on <ins>**09/24/2020**</ins> and ended on <ins>**01/19/2021**</ins>.
+Os estudos com este projeto foram iniciados em <ins>**24/09/2020**</ins> e foram finalizados em <ins>**19/01/2021**</ins>.
 <br>
 <br>
 <br>
 <div id='process'/>
 
-## Development Process 📈
-This project was divided into a few sprints to be able to organize it properly throughout the development process.
+## Processo de Desenvolvimento 📈
+Este projeto foi dividido em algumas sprints para conseguir organiza-lo devidamente durante todo o processo de desenvolvimento.
 
-There will be a total of 3 development sprints:
+Serão, ao todo, 3 sprints de desenvolvimento:
 
 
 * _**SPRINT 1 - <ins>UX/UI**_</ins> 🎨<br>
-Sprint responsible for the development of all interfaces of the layout of **E-Players**, both for the *user experience*, and to be able to adapt to the needs of the system (in the BACK-END). This process is very important for the client to know what the "face" of the site will really look like, so it will be necessary to deliver a *WireFrame* (or **Low fidelity layout**) and a **High fidelity layout**, of which they must be within the *usability requirements* and with their due *functions* which are specified by the customer.
+Sprint responsável pelo desenvolvimento de todas as interfaces do layout do **E-Players**, tanto para a *experiência do usuário*, quanto para conseguir se adequar às necessidades do sistema (no Back-End). Este processo é muito importante para que o cliente saiba como realmente será a "cara" do site, por isso será necessário entregar um *WireFrame* (ou **Layout de baixa fidelidade**) e um **Layout de alta fidelidade**, dos quais devem estar dentro dos *requisitos de usabilidade* e com suas devidas *funções* que são especificados pelo próprio cliente.
 
 
 * _**SPRINT 2 - <ins>BACK-END**_</ins> 🔙<br>
-Sprint responsible for the development of the entire structure behind the application, where **C#** was used as the *main language* for this project which also had other technologies and resources for its development, such as: **.NET Core** (or .NET, currently), **CSV files** (to store the data of registered users), **MVC** (software design, in which it was used to divide the logic of the program into 3 parts, Model-View-Controller) and among others *Frameworks* and *Models*.
+Sprint responsável pelo desenvolvimento de toda a estrutura por trás da aplicação, onde foi utilizado o **C#** como a *principal linguagem* para este projeto que também possuiu outras tecnologias e recursos para o seu desenvolvimento, tais quais: **.NET Core** (ou .NET, atualmente), o **CSV** (para armazenar os dados dos usuários cadastrados), o **MVC** (design de software, no qual foi utilizado para dividir a lógica do programa em 3 partes, Model-View-Controller) e entre outros *Frameworks* e *Modelos*.
 
 
 * _**SPRINT 3 - <ins>FRONT-END**_</ins> 📰<br>
-Sprint responsible for the development of the **WEB** project interface, which will be developed through **HTML** and **CSS**, with small participation of **JavaScript**. In this process, **responsiveness** was also made, which prepares the site to be viewed on *any type of screen*.
+Sprint responsável pelo desenvolvimento da interface do projeto **WEB**, que será desenvolvida por meio do **HTML** e **CSS**, com pequenas participações de **JavaScript**. Neste processo foi feito também a **responsividade**, que, no qual prepara a visualização do site para *qualquer tipo de tela*.
 <br>
 <div id = "tec"/>
 
-## Technologies Used 🤖
-Here are all the technologies (both programs used, as well as methods and good practices) that have been used and applied throughout the project process.
+## Tecnologias Utilizadas 🤖
+Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram usados e aplicados durante todo o processo do projeto.
 
-* _**TIME MANAGEMENT**_ ⏱️
-  * **<ins>Trello**</ins> : Program used for organizing tasks.
+* _**GERENCIAMENTO DE TEMPO**_ ⏱️
+  * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
 
 <br>
 
 * _**UI/UX**_ 🎨
-  * **<ins>Figma**</ins> : Program used to create high and low fidelity layouts.
+  * **<ins>Figma**</ins> : Programa utilizado para criar os Layouts de alta e baixa fidelidade.
 
 <br>
 
 * _**BACK-END**_ 🔙
-  * **<ins>Scrum Methodology**</ins> : Methodology used to separate tasks into scopes (sprints), such as UX/UI, BACK-END and FRONT-END;
-  * **<ins>PascalCase & camelCase**</ins> : Good practices used to visually organize the code better;
-  * **<ins>C# Language**</ins> : Main programming language used in the project's BACK-END;
-  * **<ins>.NET**</ins> : Platform framework that offered a standard library, a compiler and a "virtual machine" for the development of the entire project;
-  * **<ins>CSV Files**</ins> : Text file that managed to store the information of registered users in tables as an Excel and, when one of these information was necessary, it would be easily retrieved from the CSV;
-  * **<ins>MVC**</ins> : Software architecture that was used to separate concepts into 3 interconnected layers, the Model-View-Controller.
+  * **<ins>Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o UX/UI, o BACK-END e o FRONT-END;
+  * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
+  * **<ins>Linguagem C#**</ins> : Principal linguagem de programação utilizada no BACK-END do projeto;
+  * **<ins>.NET**</ins> : Framework de plataforma que ofereceu uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento de todo o projeto;
+  * **<ins>Arquivos CSV**</ins> : Arquivo de texto que conseguiu armazenar as informações dos usuários registrados em tabelas como um Excel e, quando uma dessas informações fossem necessárias, seria buscado fácilmente no CSV;
+  * **<ins>MVC**</ins> : Arquitetura de software que foi utilizado para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
 
 <br>
 
 * _**FRONT-END**_ 📰
-  * **<ins>HTML5**</ins> : Markup language used to develop the structures of the project pages;
-  * **<ins>CSS3**</ins> : "Cascading Style sheet" that was used to give appearance to the structures of the project pages;
-  * **<ins>JavaScript**</ins> : Programming language used to upgrade the visual presentation of project pages.
+  * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas do projeto;
+  * **<ins>CSS3**</ins> : "Folha de estilo" que foi utilizada para dar aparência para as estruturas das páginas do projeto;
+  * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas do projeto.
 <br>
 <div id="contact"/>
 
-## Contact! 🎉
+## Entre em Contato! 🎉
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
